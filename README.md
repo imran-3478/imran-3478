@@ -89,4 +89,8 @@ Anonymous anti-corruption reporting platform for Bangladesh.
 ### 🌐 Portfolio
 
 
-**[imran-akanda.netlify.app](https://imran-akanda.netlify.app)** — Flutter apps, Meta Pixel & conversion tracking, AI chatbots, brand design.
+**[imran-akanda.netlify.app](https://imran-akanda.netlify.app)** — Flutter apps, Meta Pixel & conversion tracking, AI chatbots, $0
+
+---
+### ▶️ YouTube
+**[Imran AI Bangla](https://www.youtube.com/@ImranAIBangla)** — বাংলায় AI টুলস, টিউটোরিয়াল ও টিপস, প্রতিদিন নতুন ভিডিও।
