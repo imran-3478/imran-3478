@@ -1,18 +1,26 @@
 # 👋 Hi, I'm Imran Akanda
 
+
 **Solo builder from Bangladesh 🇧🇩** — I turn ideas into real products used by real people, all from my phone.
 
+
 ---
+
 
 ## 🚀 About Me
 
+
 I'm a self-taught developer from Tangail, Bangladesh. I build full-stack products end to end — from UI design to backend to deployment — with no computer, just my phone and determination.
+
 
 I don't just write code; I **ship products** that solve real problems for real users.
 
+
 ---
 
+
 ## ⭐ Featured Projects
+
 
 ### 🚕 [CNG Ride](https://github.com/imran-3478/CNG-RIDE-)
 Ride-hailing app for CNG auto-rickshaws in Tangail, Bangladesh.
@@ -21,6 +29,7 @@ Ride-hailing app for CNG auto-rickshaws in Tangail, Bangladesh.
 - 💰 Fare estimate (৳20/km), wallet with recharge, Google Maps navigation
 - 🔗 Live demo: https://imran-3478.github.io/CNG-RIDE-/
 
+
 ### ✊ [GushKhor](https://github.com/imran-3478/Gush.khor) *(ঘুষখোর)*
 Anonymous anti-corruption reporting platform for Bangladesh.
 - 🕵️ Fully anonymous reporting with tracking codes
@@ -28,9 +37,12 @@ Anonymous anti-corruption reporting platform for Bangladesh.
 - 🔔 Instant Telegram alerts on new reports
 - 🔗 Live demo: https://imran-3478.github.io/Gush.khor/
 
+
 ---
 
+
 ## 🛠️ Tech Stack
+
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
@@ -41,22 +53,40 @@ Anonymous anti-corruption reporting platform for Bangladesh.
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
+
 ---
 
+
 ## 📊 GitHub Stats
+
 
 ![Imran's GitHub stats](https://github-readme-stats.vercel.app/api?username=imran-3478&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imran-3478&layout=compact&theme=radical)
 
+
 ---
+
 
 ## 💼 Currently
 
+
 🔍 **Open to junior developer roles** — Flutter, mobile, or full-stack web.
+
 
 ---
 
+
 ## 📫 Contact
+
 
 - ✉️ Email: [emrankhan172@gmail.com](mailto:emrankhan172@gmail.com)
 - 🐙 GitHub: [@imran-3478](https://github.com/imran-3478)
+
+
+---
+
+
+### 🌐 Portfolio
+
+
+**[imran-akanda.netlify.app](https://imran-akanda.netlify.app)** — Flutter apps, Meta Pixel & conversion tracking, AI chatbots, brand design.
